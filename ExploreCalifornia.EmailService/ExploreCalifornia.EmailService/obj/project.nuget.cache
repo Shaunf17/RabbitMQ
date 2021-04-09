@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "h56rPzGn332EPsXXsXc5guiRspdipz6SSGH95NvExGgTUZzvVAu3PSZbYd+kWFhehPgbfK5OU/XwjY9wm5Yoeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Work\\source\\repos\\ExploreCalifornia.EmailService\\ExploreCalifornia.EmailService\\ExploreCalifornia.EmailService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Work\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

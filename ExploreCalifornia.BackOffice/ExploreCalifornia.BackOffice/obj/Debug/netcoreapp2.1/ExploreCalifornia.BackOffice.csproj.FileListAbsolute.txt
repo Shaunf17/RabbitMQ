@@ -1,0 +1,12 @@
+C:\Users\Work\source\repos\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\bin\Debug\netcoreapp2.1\ExploreCalifornia.BackOffice.deps.json
+C:\Users\Work\source\repos\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\bin\Debug\netcoreapp2.1\ExploreCalifornia.BackOffice.runtimeconfig.json
+C:\Users\Work\source\repos\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\bin\Debug\netcoreapp2.1\ExploreCalifornia.BackOffice.runtimeconfig.dev.json
+C:\Users\Work\source\repos\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\bin\Debug\netcoreapp2.1\ExploreCalifornia.BackOffice.dll
+C:\Users\Work\source\repos\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\bin\Debug\netcoreapp2.1\ExploreCalifornia.BackOffice.pdb
+C:\Users\Work\source\repos\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\netcoreapp2.1\ExploreCalifornia.BackOffice.csprojAssemblyReference.cache
+C:\Users\Work\source\repos\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\netcoreapp2.1\ExploreCalifornia.BackOffice.AssemblyInfoInputs.cache
+C:\Users\Work\source\repos\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\netcoreapp2.1\ExploreCalifornia.BackOffice.AssemblyInfo.cs
+C:\Users\Work\source\repos\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\netcoreapp2.1\ExploreCalifornia.BackOffice.csproj.CoreCompileInputs.cache
+C:\Users\Work\source\repos\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\netcoreapp2.1\ExploreCalifornia.BackOffice.dll
+C:\Users\Work\source\repos\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\netcoreapp2.1\ExploreCalifornia.BackOffice.pdb
+C:\Users\Work\source\repos\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\netcoreapp2.1\ExploreCalifornia.BackOffice.genruntimeconfig.cache
